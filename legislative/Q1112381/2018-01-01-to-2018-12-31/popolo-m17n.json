@@ -1,0 +1,2190 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:el": "Ανδρέας Πιτσιλλίδης",
+        "lang:en": "Andreas Pitsillides"
+      },
+      "id": "Q11685756",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11685756"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Άριστος Δαμιανού"
+      },
+      "id": "Q12872352",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12872352"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ανδρέας Μουσκάλλης",
+        "lang:en": "Andreas Mouskallis"
+      },
+      "id": "Q12873656",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12873656"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Αντρέας Καυκαλιάς"
+      },
+      "id": "Q12873768",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12873768"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Αντρέας Φακοντής"
+      },
+      "id": "Q12873769",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12873769"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιαννάκης Γαβριήλ"
+      },
+      "id": "Q12875278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12875278"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιώργος Λουκαΐδης"
+      },
+      "id": "Q12875354",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12875354"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Δημήτρης Συλλούρης",
+        "lang:en": "Demetris Syllouris"
+      },
+      "id": "Q12875947",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12875947"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ειρήνη Χαραλαμπίδου"
+      },
+      "id": "Q12876791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12876791"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ιωάννης Οικονομίδης (Λευκόνοικο)"
+      },
+      "id": "Q12878382",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12878382"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Κώστας Κώστα"
+      },
+      "id": "Q12879928",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12879928"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Μαρίνος Σιζόπουλος",
+        "lang:en": "Marinos Sizopoulos"
+      },
+      "id": "Q12880743",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12880743"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Νίκος Τορναρίτης"
+      },
+      "id": "Q12881566",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12881566"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Πανίκκος Σταυριανός"
+      },
+      "id": "Q12882663",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12882663"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ρούλα Μαυρονικόλα"
+      },
+      "id": "Q12884190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12884190"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Σκεύη Κουκουμά Κούτρα"
+      },
+      "id": "Q12884514",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12884514"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Στέφανος Στεφάνου"
+      },
+      "id": "Q12884748",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12884748"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Σωτηρούλα Χαραλάμπους"
+      },
+      "id": "Q12885108",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12885108"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Χάρης Γεωργιάδης",
+        "lang:en": "Harris Georgiades"
+      },
+      "id": "Q12885971",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12885971"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Χριστάκης Τζιοβάνης"
+      },
+      "id": "Q12886195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12886195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Νίκος Νικολαΐδης",
+        "lang:en": "Nicos Nicolaides"
+      },
+      "id": "Q12912924",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12912924"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Κυριάκος Χρίστου"
+      },
+      "id": "Q15161328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15161328"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Δημήτρης Κοντίδης",
+        "lang:en": "Demetris Kontides"
+      },
+      "id": "Q15230189",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15230189"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Σταύρος Ευαγόρου",
+        "lang:en": "Stavros Evagorou"
+      },
+      "id": "Q15950881",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15950881"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Αβέρωφ Νεοφύτου",
+        "lang:en": "Averof Neofytou"
+      },
+      "id": "Q15951474",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15951474"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ανδρέας Ζιαρτίδης",
+        "lang:en": "Andreas Ziartides"
+      },
+      "id": "Q16013994",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16013994"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Στέλλα Δημητρίου Μισιαούλη"
+      },
+      "id": "Q16329024",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16329024"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιάννος Λαμάρης"
+      },
+      "id": "Q16329147",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16329147"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιώργος Γεωργίου"
+      },
+      "id": "Q16329183",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16329183"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ιωνάς Νικολάου"
+      },
+      "id": "Q16329342",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16329342"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Νεοκλής Συλικιώτης",
+        "lang:en": "Neoklis Sylikiotis"
+      },
+      "id": "Q16330441",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16330441"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Χρίστος Μέσης"
+      },
+      "id": "Q16332700",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16332700"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ιωάννης Κασουλίδης",
+        "lang:en": "Ioannis Kasoulidis"
+      },
+      "id": "Q1671928",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1671928"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Εζεκίας Παπαϊωάννου",
+        "lang:en": "Ezekias Papaioannou"
+      },
+      "id": "Q2482229",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2482229"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Νίκος Κατσουρίδης",
+        "lang:en": "Nicos Katsourides"
+      },
+      "id": "Q2568399",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2568399"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ελένη Μαύρου",
+        "lang:en": "Eleni Mavrou"
+      },
+      "id": "Q2792539",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2792539"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Νικόλας Παπαδόπουλος",
+        "lang:en": "Nikolas Papadopoulos"
+      },
+      "id": "Q3161181",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3161181"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Αδάμος Αδάμου",
+        "lang:en": "Adamos Adamou"
+      },
+      "id": "Q351655",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q351655"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ελένη Θεοχάρους",
+        "lang:en": "Eleni Theocharous"
+      },
+      "id": "Q468077",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q468077"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ονούφριος Κουλλάς"
+      },
+      "id": "Q47536190",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47536190"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ανδρέας Χρίστου",
+        "lang:en": "Andreas Christou"
+      },
+      "id": "Q4755398",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4755398"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ανδρέας Μιχαηλίδης",
+        "lang:tr": "Andreas Mihailidis",
+        "lang:en": "Andreas Michaelides"
+      },
+      "id": "Q4755548",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4755548"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ξένια Κωνσταντίνου"
+      },
+      "id": "Q47892913",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47892913"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Σάβια Ορφανίδου"
+      },
+      "id": "Q47893519",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47893519"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Αννίτα Δημητρίου"
+      },
+      "id": "Q47984268",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47984268"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Λίνος Παπαγιάννης"
+      },
+      "id": "Q49782374",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q49782374"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ανδρέας Φάντης"
+      },
+      "id": "Q50822321",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50822321"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Άνδρος Κυπριανού",
+        "lang:tr": "Andros Kyprianou",
+        "lang:en": "Andros Kyprianou"
+      },
+      "id": "Q514075",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q514075"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Μαρίνος Μουσιούττας"
+      },
+      "id": "Q52774772",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52774772"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Χριστιάνα Ερωτοκρίτου"
+      },
+      "id": "Q52776264",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52776264"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Πανίκος Λεωνίδου"
+      },
+      "id": "Q52776576",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52776576"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Άγγελος Βότσης"
+      },
+      "id": "Q52991208",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52991208"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιώργος Προκοπίου"
+      },
+      "id": "Q53453800",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53453800"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ζαχαρίας Κουλίας"
+      },
+      "id": "Q53461424",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53461424"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Χρίστος Ορφανίδης"
+      },
+      "id": "Q53553067",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53553067"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Χαράλαμπος Θεοπέμπτου"
+      },
+      "id": "Q53632707",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53632707"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Μιχάλης Γιωργάλλας"
+      },
+      "id": "Q53996871",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53996871"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιώργος Παπαδόπουλος"
+      },
+      "id": "Q53996986",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53996986"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Ηλίας Μυριάνθους"
+      },
+      "id": "Q53997687",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53997687"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Άννα Θεολόγου"
+      },
+      "id": "Q54152815",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54152815"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Τάκης Χατζηγεωργίου",
+        "lang:en": "Takis Hadjigeorgiou"
+      },
+      "id": "Q545492",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q545492"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιώργος Περδίκης",
+        "lang:en": "George Perdikes"
+      },
+      "id": "Q5543328",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5543328"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Δημήτρης Χριστόφιας",
+        "lang:tr": "Dimitris Hristofyas",
+        "lang:en": "Demetris Christofias"
+      },
+      "id": "Q57334",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57334"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Μιχάλης Παπαπέτρου",
+        "lang:en": "Michalis Papapetrou"
+      },
+      "id": "Q6835924",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6835924"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιώργος Λιλλήκας",
+        "lang:tr": "Yorgos Lillikas",
+        "lang:en": "Giorgos Lillikas"
+      },
+      "id": "Q694791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q694791"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:el": "Γιαννάκης Ομήρου",
+        "lang:en": "Yiannakis Omirou"
+      },
+      "id": "Q8053482",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8053482"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:el": "Βουλή των Αντιπροσώπων της Κύπρου",
+        "lang:tr": "Kıbrıs Temsilciler Meclisi",
+        "lang:en": "House of Representatives"
+      },
+      "id": "Q1112381",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1112381"
+        }
+      ],
+      "area_id": "Q229",
+      "seat_counts": {
+        "Q19801674": "59"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11685756-64f06dc8-4f53-ed09-a081-a501be3ab60a",
+      "person_id": "Q11685756",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12872352-12372609-4c94-8c91-7507-ddf72e0bbb33",
+      "person_id": "Q12872352",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12873656-64E27FAC-BD89-4350-AE60-100443E2A70A",
+      "person_id": "Q12873656",
+      "organization_id": "Q1112381",
+      "area_id": "Q59148",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12873768-3bcc2e6d-4be7-1785-419f-36b1069df7f9",
+      "person_id": "Q12873768",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12873769-1caa0c8c-4ccd-d24a-86b6-e9d557479603",
+      "person_id": "Q12873769",
+      "organization_id": "Q1112381",
+      "area_id": "Q59133",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12875278-aa8025c1-40ec-4b2f-0405-046392acf664",
+      "person_id": "Q12875278",
+      "organization_id": "Q1112381",
+      "area_id": "Q59148",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12875354-ed447503-4dc5-7027-157d-ffa0d306d239",
+      "person_id": "Q12875354",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12875947-fe0e18cf-4c45-a03f-08db-9baa5d90f078",
+      "person_id": "Q12875947",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12876791-d6419bcf-4593-874a-fc66-a33c70b305d3",
+      "person_id": "Q12876791",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12878382-86a482c6-42e9-ac58-cbf5-efc1ac47fa10",
+      "person_id": "Q12878382",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12879928-a686ddcc-4215-bcc6-76ec-c40a7acce964",
+      "person_id": "Q12879928",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12880743-99efaf7d-449a-ae87-eca8-88edd7ff75f5",
+      "person_id": "Q12880743",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12881566-f8e940d8-4876-8703-f0db-70afde614ee2",
+      "person_id": "Q12881566",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12882663-b2ae7d66-46e0-11c9-a7d5-dc8c365aff13",
+      "person_id": "Q12882663",
+      "organization_id": "Q1112381",
+      "area_id": "Q59153",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12884190-9259a459-4815-d51b-8094-9258293800a3",
+      "person_id": "Q12884190",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12884514-208f324d-4473-c3a0-6d28-989e613acd62",
+      "person_id": "Q12884514",
+      "organization_id": "Q1112381",
+      "area_id": "Q59148",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12884748-DC74A7D2-E11D-4485-BD69-1B463508C0AD",
+      "person_id": "Q12884748",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12885108-b1d001f5-484e-ccf9-1ba9-3031da2fc371",
+      "person_id": "Q12885108",
+      "organization_id": "Q1112381",
+      "area_id": "Q59148",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12885971-4d359b51-44b6-2886-2342-ea35dccf3bbd",
+      "person_id": "Q12885971",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12886195-16929633-4113-44b8-0c91-3dd8c959db8c",
+      "person_id": "Q12886195",
+      "organization_id": "Q1112381",
+      "area_id": "Q59148",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12912924-9db28516-45ed-6891-ae65-aa2aca06a164",
+      "person_id": "Q12912924",
+      "organization_id": "Q1112381",
+      "area_id": "Q185632",
+      "start_date": "2011-05-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12912924-eaa15260-4c61-7a4e-509a-53512666f4e5",
+      "person_id": "Q12912924",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15161328-f19442fc-4304-5e3d-8deb-e50735fc5f90",
+      "person_id": "Q15161328",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15230189-d51bcc56-46b7-a9b2-354c-19f82274fadf",
+      "person_id": "Q15230189",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15950881-6e480d92-4ebb-784a-771b-49f6464d78ac",
+      "person_id": "Q15950881",
+      "organization_id": "Q1112381",
+      "area_id": "Q59148",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15951474-0dfdb234-42ec-82c7-94e2-50fb958be425",
+      "person_id": "Q15951474",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16013994-64D4536E-6C9B-46E9-AB38-76E95D61BC8A",
+      "person_id": "Q16013994",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16329024-1ad8bcf9-4718-4d98-8a5e-72979c098636",
+      "person_id": "Q16329024",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16329147-52000c41-417f-df1a-fb4f-2adb50778773",
+      "person_id": "Q16329147",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16329183-d7b77705-40de-b2c1-465a-eca418261469",
+      "person_id": "Q16329183",
+      "organization_id": "Q1112381",
+      "area_id": "Q59153",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16329342-a2eb29ee-4768-f134-a0a1-2a74854c9345",
+      "person_id": "Q16329342",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16330441-b6971d5a-43de-a265-ba28-a8b647da2f9a",
+      "person_id": "Q16330441",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16332700-84a3afd4-4ee4-953b-4784-1939c507971c",
+      "person_id": "Q16332700",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1671928-3330d160-4131-bc82-f291-2880d1014879",
+      "person_id": "Q1671928",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2482229-cdea5aef-445e-9a8b-3b62-1eb23ef97b64",
+      "person_id": "Q2482229",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2568399-5d788d36-49d0-a74c-bbe8-2e77bfb9bd4e",
+      "person_id": "Q2568399",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2792539-03DB7D50-EF40-4AED-A4A6-E24DF7A76923",
+      "person_id": "Q2792539",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2792539-4a396434-499d-1d76-3f29-d8e4d6bf6c22",
+      "person_id": "Q2792539",
+      "organization_id": "Q1112381",
+      "area_id": "Q59146",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3161181-dc147948-4fbb-9c33-ed7e-9f5a1b85ff2e",
+      "person_id": "Q3161181",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q351655-cdedfef2-4ad2-cbbf-5526-643447c6d1be",
+      "person_id": "Q351655",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q468077-2948a164-45b3-1c65-ae73-7ffc2ed470dd",
+      "person_id": "Q468077",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47536190-289A3AFD-24C8-483D-A70C-CE1274CA9B44",
+      "person_id": "Q47536190",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4755398-10c8330b-440d-daa1-90c0-3800b063b873",
+      "person_id": "Q4755398",
+      "organization_id": "Q1112381",
+      "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4755548-55eb9e9a-4664-858c-3f38-ff8950030151",
+      "person_id": "Q4755548",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47892913-9E8BAD7E-71FB-45FA-A242-D81550EA56BE",
+      "person_id": "Q47892913",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47893519-8216D0CF-B28D-4E73-B45A-40686C73CEF4",
+      "person_id": "Q47893519",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47984268-0344BACF-E1F5-482A-B4EA-46866B9E30A5",
+      "person_id": "Q47984268",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q49782374-74EA8148-265D-4E95-89BE-FE6732B5FA35",
+      "person_id": "Q49782374",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50822321-A71AFC92-5E35-4A3D-8252-374E6CB5E60C",
+      "person_id": "Q50822321",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q514075-60add8e9-44c9-6704-1cdc-488b46e659bb",
+      "person_id": "Q514075",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52774772-34084F29-126D-4DD6-BC73-084F12D44A66",
+      "person_id": "Q52774772",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52776264-9B254DFC-42F9-40AF-ACE4-7CA52EFD70EE",
+      "person_id": "Q52776264",
+      "organization_id": "Q1112381",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52776576-831FD423-4784-46D1-87E1-ECBF6A06F938",
+      "person_id": "Q52776576",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52991208-C4F87439-1A70-45EB-882E-DBA2A32F853F",
+      "person_id": "Q52991208",
+      "organization_id": "Q1112381",
+      "start_date": "2006-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53453800-DA0F1C50-AA7D-4559-87C1-AB155A315EBF",
+      "person_id": "Q53453800",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53461424-B8F1C370-BB51-470D-850D-C8262D721B47",
+      "person_id": "Q53461424",
+      "organization_id": "Q1112381",
+      "start_date": "1999-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53553067-9724465F-2E15-40EC-AC6F-46CEB3E50C1E",
+      "person_id": "Q53553067",
+      "organization_id": "Q1112381",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53632707-55158E21-AC1C-4873-8133-9957175EE2C0",
+      "person_id": "Q53632707",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53996871-7D5B0CCC-2918-454C-842D-7859CF12CC59",
+      "person_id": "Q53996871",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53996986-F63BEAE8-6F60-43A8-87B3-CCF5C17E47EE",
+      "person_id": "Q53996986",
+      "organization_id": "Q1112381",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53997687-BA50371F-62CE-40C8-B744-B401EAA6C031",
+      "person_id": "Q53997687",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54152815-E61E347D-2A90-4D33-98A9-D81987B90104",
+      "person_id": "Q54152815",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q545492-a63cbba5-4a8a-2ef6-759b-8e269d8f09e7",
+      "person_id": "Q545492",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5543328-5311c314-4e50-7474-5cd0-43b8b9b60870",
+      "person_id": "Q5543328",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57334-0e1f22fc-4074-a985-2f10-c53ad42bb2ef",
+      "person_id": "Q57334",
+      "organization_id": "Q1112381",
+      "area_id": "Q59146",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6835924-afd7ed76-48ae-f3d6-f7af-fa6616df1758",
+      "person_id": "Q6835924",
+      "organization_id": "Q1112381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q694791-F2E61930-ACDA-4FD6-A95D-4A47B8FF4DE8",
+      "person_id": "Q694791",
+      "organization_id": "Q1112381",
+      "area_id": "Q59147",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8053482-884309c1-41f0-65ff-0aca-2e132801c925",
+      "person_id": "Q8053482",
+      "organization_id": "Q1112381",
+      "area_id": "Q59133",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    }
+  ]
+}
