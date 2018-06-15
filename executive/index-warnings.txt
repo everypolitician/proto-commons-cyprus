@@ -1,0 +1,8 @@
+WARNING: no executive for Πρόεδρος της Κυπριακής Δημοκρατίας (Q841760) in Κύπρος (Q229)
+WARNING: no head of government position for Επαρχία Πάφου (Q59133)
+WARNING: no head of government position for Επαρχία Κερύνειας (Q59146)
+WARNING: no head of government position for Επαρχία Λευκωσίας (Q59147)
+WARNING: no head of government position for Επαρχία Αμμοχώστου (Q59148)
+WARNING: no head of government position for Επαρχία Λάρνακας (Q59153)
+WARNING: no executive for Έπαρχος (Q29642013) in Επαρχία Λεμεσού (Q59150)
+WARNING: no executive for Δήμαρχος (Q30185) in Λευκωσία (Q3856)
