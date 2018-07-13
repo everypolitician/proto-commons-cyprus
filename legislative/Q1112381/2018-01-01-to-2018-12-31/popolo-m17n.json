@@ -589,6 +589,22 @@
     },
     {
       "name": {
+        "lang:el": "Κλαίρη Αγγελίδου",
+        "lang:en": "Klairi Angelidou"
+      },
+      "id": "Q43401179",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43401179"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:el": "Ελένη Θεοχάρους",
         "lang:en": "Eleni Theocharous"
       },
@@ -1714,6 +1730,22 @@
       "person_id": "Q351655",
       "organization_id": "Q1112381",
       "area_id": "Q59150",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:el": "βουλευτής",
+        "lang:tr": "Milletvekili",
+        "lang:en": "member of parliament"
+      },
+      "role_code": "Q19801674",
+      "role": {
+        "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+        "lang:en": "member of the House of Representatives of Cyprus"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43401179-0B712175-8E66-4159-BDB7-C87626AA7895",
+      "person_id": "Q43401179",
+      "organization_id": "Q1112381",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:el": "βουλευτής",

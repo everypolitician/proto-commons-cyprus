@@ -3826,6 +3826,86 @@
         "value" : "Adamos Adamou"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q43401179-0B712175-8E66-4159-BDB7-C87626AA7895"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role_superclass_tr" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Milletvekili"
+      },
+      "role_superclass_el" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "βουλευτής"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19801674"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the House of Representatives of Cyprus"
+      },
+      "role_el" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "μέλος της Βουλής των Αντιπροσώπων της Κύπρου"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q43401179"
+      },
+      "name_el" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Κλαίρη Αγγελίδου"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1112381"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "House of Representatives"
+      },
+      "org_tr" : {
+        "xml:lang" : "tr",
+        "type" : "literal",
+        "value" : "Kıbrıs Temsilciler Meclisi"
+      },
+      "org_el" : {
+        "xml:lang" : "el",
+        "type" : "literal",
+        "value" : "Βουλή των Αντιπροσώπων της Κύπρου"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q229"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "59"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Klairi Angelidou"
+      }
+    }, {
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q59150"
