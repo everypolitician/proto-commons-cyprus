@@ -863,6 +863,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "59"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Irene Charalambidou"
       }
     }, {
       "statement" : {
@@ -4003,6 +4008,10 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Eleni Theocharous"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "eleni.theocharous.984"
       }
     }, {
       "statement" : {
@@ -4892,6 +4901,11 @@
         "type" : "literal",
         "value" : "59"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Christiana Erotokritou"
+      },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
@@ -5666,6 +5680,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "59"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Anna Theologou"
       }
     }, {
       "district" : {
