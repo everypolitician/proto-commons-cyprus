@@ -1,0 +1,109 @@
+{
+  "head": {
+    "vars": [
+      "position",
+      "position_name_el",
+      "position_name_tr",
+      "position_name_en",
+      "positionType",
+      "adminAreaTypes",
+      "adminArea",
+      "admin_area_el",
+      "admin_area_tr",
+      "admin_area_en",
+      "positionSuperclass",
+      "position_superclass_el",
+      "position_superclass_tr",
+      "position_superclass_en",
+      "body",
+      "body_el",
+      "body_tr",
+      "body_en"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19801674"
+        },
+        "position_name_el": {
+          "xml:lang": "el",
+          "type": "literal",
+          "value": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the House of Representatives of Cyprus"
+        },
+        "positionType": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4175034"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q6256"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q229"
+        },
+        "admin_area_el": {
+          "xml:lang": "el",
+          "type": "literal",
+          "value": "Κύπρος"
+        },
+        "admin_area_tr": {
+          "xml:lang": "tr",
+          "type": "literal",
+          "value": "Kıbrıs Cumhuriyeti"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Cyprus"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "position_superclass_el": {
+          "xml:lang": "el",
+          "type": "literal",
+          "value": "βουλευτής"
+        },
+        "position_superclass_tr": {
+          "xml:lang": "tr",
+          "type": "literal",
+          "value": "Milletvekili"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1112381"
+        },
+        "body_el": {
+          "xml:lang": "el",
+          "type": "literal",
+          "value": "Βουλή των Αντιπροσώπων της Κύπρου"
+        },
+        "body_tr": {
+          "xml:lang": "tr",
+          "type": "literal",
+          "value": "Kıbrıs Temsilciler Meclisi"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "House of Representatives"
+        }
+      }
+    ]
+  }
+}
