@@ -1,0 +1,23 @@
+[
+  {
+    "role_id": "Q19801674",
+    "role_name": {
+      "lang:el": "μέλος της Βουλής των Αντιπροσώπων της Κύπρου",
+      "lang:en": "member of the House of Representatives of Cyprus"
+    },
+    "generic_role_id": "Q486839",
+    "generic_role_name": {
+      "lang:el": "βουλευτής",
+      "lang:tr": "Milletvekili",
+      "lang:en": "member of parliament"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q1112381",
+    "organization_name": {
+      "lang:el": "Βουλή των Αντιπροσώπων της Κύπρου",
+      "lang:tr": "Kıbrıs Temsilciler Meclisi",
+      "lang:en": "House of Representatives"
+    }
+  }
+]
