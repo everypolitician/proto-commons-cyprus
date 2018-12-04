@@ -125,7 +125,8 @@
     },
     {
       "name": {
-        "lang:el": "Ειρήνη Χαραλαμπίδου"
+        "lang:el": "Ειρήνη Χαραλαμπίδου",
+        "lang:en": "Irene Charalambidou"
       },
       "id": "Q12876791",
       "identifiers": [
@@ -616,7 +617,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/eleni.theocharous.984"
+        }
       ]
     },
     {
@@ -776,7 +780,8 @@
     },
     {
       "name": {
-        "lang:el": "Χριστιάνα Ερωτοκρίτου"
+        "lang:el": "Χριστιάνα Ερωτοκρίτου",
+        "lang:en": "Christiana Erotokritou"
       },
       "id": "Q52776264",
       "identifiers": [
@@ -926,7 +931,8 @@
     },
     {
       "name": {
-        "lang:el": "Άννα Θεολόγου"
+        "lang:el": "Άννα Θεολόγου",
+        "lang:en": "Anna Theologou"
       },
       "id": "Q54152815",
       "identifiers": [
